@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Meu Teste do phone GAB",
+  "short_name": "Meu Teste do phone GAB",
+  "version": "io.cordova.hellocordova",
+  "description": "Estou testando o phone gap",
+  "author": "Luiz Almei da Junior",
+  "icons": [],
+  "start_url": "index.html"
+}
